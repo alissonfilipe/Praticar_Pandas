@@ -1,4 +1,17 @@
+pandas é uma biblioteca não um framework 
+é um conjunto de feramentas 
+quero ler csv usa pandas
+quero limpar dados usa pandas 
+
+
+df.info() é o primeiro comando antes de abrir qualquer dado
+
+
+
 uma coluna é a mesma coisa que uma série
+se a série existe vai sobrescrever 
+df[idade] = df[idade] + 1
+se não existe vai criar 
 
 
 dentro de data a pasta raw é a pasta com dados brutos
