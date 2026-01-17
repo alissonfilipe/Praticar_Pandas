@@ -1,0 +1,5 @@
+dentro de data a pasta raw é a pasta com dados brutos
+já o data processed são os dados tratados 
+
+é importante deixar o notebook de limpeza em um lugar
+e o notebook de análise em outro
