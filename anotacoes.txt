@@ -1,3 +1,6 @@
+uma coluna é a mesma coisa que uma série
+
+
 dentro de data a pasta raw é a pasta com dados brutos
 já o data processed são os dados tratados 
 
